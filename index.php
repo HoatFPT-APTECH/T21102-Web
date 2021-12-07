@@ -1,0 +1,1 @@
+<?php include("thethao24h.html");
