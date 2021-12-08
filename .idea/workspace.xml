@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="decbbf2e-5c63-4688-9473-2d254e61de5f" name="Changes" comment="ha" />
+    <list default="true" id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webstone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="21yRHTKGGlSkwmyHtFFxTi2ruOu" />
+  <component name="ProjectId" id="21yokCxiduRCnDcl6ufCgwyvakp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,56 +24,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="decbbf2e-5c63-4688-9473-2d254e61de5f" name="Changes" comment="" />
-      <created>1638911253712</created>
+      <changelist id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="" />
+      <created>1638922829165</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638911253712</updated>
-      <workItem from="1638911255980" duration="65000" />
-      <workItem from="1638922337363" duration="356000" />
+      <updated>1638922829165</updated>
+      <workItem from="1638922830282" duration="35000" />
+      <workItem from="1638922875870" duration="20000" />
     </task>
-    <task id="LOCAL-00001" summary="ha">
-      <created>1638922450958</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1638922450958</updated>
-    </task>
-    <task id="LOCAL-00002" summary="ha">
-      <created>1638922594485</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1638922594485</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="ha" />
-    <option name="LAST_COMMIT_MESSAGE" value="ha" />
   </component>
 </project>
