@@ -73,7 +73,7 @@ p{
     margin-right: 30px;
 }
 .menu li.last{
-    float: right;
+   float: right;
     margin: 0;
 }
 .menu li a{
@@ -105,6 +105,7 @@ p{
     padding: 30px;
     background-color: #ffffff;
     margin-bottom: 30px;
+    border-radius: 20px 20px 0 0;
 }
 .sidebar .black{
     background-color: gray;
