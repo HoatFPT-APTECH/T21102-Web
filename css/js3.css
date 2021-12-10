@@ -1,0 +1,11 @@
+.clock{
+    background-image: url("../images/dongho.jpg");
+    width: 200px;
+    height:200px ;
+    background-size: cover;
+    transform: translate(0px,20px);
+}
+h2{
+    transform: translate(50px,60px);
+    color: white;
+}

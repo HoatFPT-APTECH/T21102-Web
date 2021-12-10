@@ -51,3 +51,4 @@ function Vietlot() {
         alert("Chúc bạn may mắn vào kỳ quay kế tiếp");
     }
 }
+Vietlot();

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <link rel="stylesheet" href="css/js3.css">
+</head>
+<body>
+<h1 id="h1"> xin chào người anh em</h1>
+<div class="clock">
+<h2 id="timer">00:00</h2>
+</div>
+<script type="text/javascript">
+    setTimeout(function (){
+        var h1obj=document.getElementById("h1")
+        h1obj.style.color="red";
+        h1obj.style.innerHTML="<u>xin chào người anh em</u>"
+    },1000)
+  //  var m=parseInt(prompt("Nhập vào số phút: ")),s=0;
+  //  function timedown(){
+ //   var time=document.getElementById("timer");
+    //    var min=m<10?"0"+m:m;
+    //    var sec=s<10?"0"+s:s;// nếu s<10 thì s thành string nên không thể
+        // cộng trừ nhân chia dk nên gây ra lỗi chương trình,
+        // nên phải dùng thk s có kiểu là number để cộng trừ nhân chia,
+        //còn sec là chỉ để hiển thị mà thôi.
+      //  time.style.fontSize="48px";
+      //  time.style.color="black";
+      //  time.innerText=min+":"+sec;
+     //   s--;
+       // if(s<0){
+       //     s=59;
+       //     m--;
+       // }
+      //  else if(m==0&&s==0){
+      //      clearInterval(clock);
+      //  }
+    //}
+    //var clock=setInterval(timedown,1000);
+    var date=new Date();
+    var hour=date.getHours();
+    var mi=date.getMinutes();
+    var sec=date.getSeconds();
+    var timeclock=document.getElementById("timer");
+    function time(){
+        timeclock.innerText=hour+":"+mi+":"+sec;
+        sec++;
+        if(sec>60){mi++;
+        sec=0}
+        else if(mi>60){hour++;
+        mi=0}
+        else if(hour>24){
+            hour=0;
+        }
+    }
+    var clock=setInterval(time,1000)
+</script>
+</body>
+</html>
