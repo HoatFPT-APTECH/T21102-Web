@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="hoat">
+      <change afterPath="$PROJECT_DIR$/css/js3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventjs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/labs2js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/labs2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs2js.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs2js.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -41,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teams_2-master (1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teams_2-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -84,10 +88,6 @@
       <workItem from="1639018350177" duration="9745000" />
       <workItem from="1639074899322" duration="853000" />
       <workItem from="1639102723887" duration="13000" />
-      <workItem from="1639108643897" duration="288000" />
-      <workItem from="1639138824828" duration="4860000" />
-      <workItem from="1639144393391" duration="3258000" />
-      <workItem from="1639184811120" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1638922980207</created>
@@ -131,14 +131,7 @@
       <option name="project" value="LOCAL" />
       <updated>1638986365875</updated>
     </task>
-    <task id="LOCAL-00007" summary="hoat">
-      <created>1639108916459</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1639108916459</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
