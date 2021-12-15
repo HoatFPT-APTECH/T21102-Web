@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="hoat">
-      <change afterPath="$PROJECT_DIR$/css/labjs5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datalabs5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoJquery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demodataBinding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labjs5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labjs5.html" beforeDir="false" afterPath="$PROJECT_DIR$/labjs5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +86,7 @@
       <workItem from="1639074899322" duration="853000" />
       <workItem from="1639102723887" duration="13000" />
       <workItem from="1639507974547" duration="14666000" />
+      <workItem from="1639538611046" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1638922980207</created>

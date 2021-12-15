@@ -51,7 +51,7 @@
                    tp[i].innerHTML=( "Nhiệt độ: "+temp + "<sup>o</sup> C");
                    var icon = data.list[i].weather[0].icon;
                    var ic=document.getElementsByClassName('icon');
-                   ic[i].innerHTML=(icon);
+                   ic[i].innerHTML=('<img src="http://openweathermap.org/img/wn/'+icon+'@2x.png"/>');
                    var discrition = data.list[i].weather[0].description;
                    var dis=document.getElementsByClassName('discription')
                    dis[i].innerHTML=( "Miêu tả: "+discrition);
