@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="hoat">
-      <change afterPath="$PROJECT_DIR$/css/js3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/labjs5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datalabs5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoJquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demodataBinding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labjs5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/labs2js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/labs2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs2js.html" beforeDir="false" afterPath="$PROJECT_DIR$/labs2js.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +18,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teams_2-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../T2110E_WEB-master/DemoJS3.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -88,6 +90,7 @@
       <workItem from="1639018350177" duration="9745000" />
       <workItem from="1639074899322" duration="853000" />
       <workItem from="1639102723887" duration="13000" />
+      <workItem from="1639507974547" duration="14666000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1638922980207</created>

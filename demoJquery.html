@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jquery</title>
+</head>
+<body>
+<h1 id="tit" class="x1 x2" >Demo jQuery</h1>
+<p id="para" class="x1">Nhà Trắng nói ông Biden không xem ông Tập là "bạn cũ", sau khi được Chủ tịch Trung Quốc gọi là "lão<br/>
+    bằng hữu của tôi" trong họp thượng đỉnh.<br/>
+    "Tổng thống nói ông có mối quan hệ lâu dài với Chủ tịch Tập. Họ từng gặp nhau nhiều lần, có thể thảo luận<br/>
+    thẳng thắn để làm việc hiệu quả, nhưng Tổng thống không xem Chủ tịch Tập là bạn cũ", phó thư ký báo chí<br/>
+    Nhà Trắng Andrew Bates hôm nay nói với phóng viên trên Không lực Một, khi Tổng thống Joe Biden đang<br/>
+    trên đường đến bang New Hampshire.<br/>
+    Tuyên bố được Bates đưa ra khi các phóng viên hỏi Chủ tịch Trung Quốc<a href="https://vnexpress.net/chu-de/tap-can-binh-1616"><u> Tập Cận Bình </u></a>có ý định gì khi gọi<br/>
+    Tổng thống <a href="https://vnexpress.net/chu-de/joe-biden-1615"><u>Biden</u></a> là "lão bằng hữu" trong cuộc gặp thượng đỉnh trực tuyến hôm 16/11. Bates từ chối bình<br/>
+    luận về "ý định" của ông Tập trong cách gọi đó.<br/>
+    Thư ký báo chí Nhà Trắng Jen Psaki hôm 15/11 đưa ra bình luận tương tự trước hội nghị thượng đỉnh, khi<br/>
+    được hỏi về quan điểm của Biden.<br/>
+    "Tổng thống không xem Chủ tịch Tập là bạn cũ, điều này vẫn nhất quán", Psaki cho hay. "Tổng thống từng<br/>
+    nhiều lần gặp và trò chuyện trực tiếp với Chủ tịch Tập nên ông cảm thấy có thể trao đổi thẳng thắn".<br/>
+</p>
+<button type="button" onclick="ON()">ON</button>
+<button type="button" onclick="(OFF)">OFF</button>
+
+<script type="text/javascript" src="js/jquery.js">
+</script>
+<script type="text/javascript">
+     var obj=$("#tit");// 1 doi tuong đại diện cho 1 tâp hợp
+    var obj2=$(".x1");// 1 doi tuong đai diện cho 1 tập hợp (mảng)
+     //object collection
+     // thao tác vơid đối tượng này thì cả tập hôpj bị ảnh hưởng
+     // cũng có thể tao tác trên từng phần tử được.
+     // một số hàm hay dùng
+     obj.css("color","red");
+     obj2.css({
+         color:"green",
+         "background-color":"orange",
+     })
+         obj2.text("xin choa nguoi anh em");
+     obj.append("<i> hello world</i>");
+     obj.addClass("x3");
+     obj.removeClass("x2");
+     if(obj.hasClass("x3")){
+         obj.addClass("x4");
+     }
+     console.log(obj2.text());
+     var para=$("#para");
+     function ON(){
+         para.show();
+     }
+     function OFF(){
+         para.hide();
+     }
+</script>
+</body>
+</html>
