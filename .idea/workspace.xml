@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8f9f89-a837-4da0-bfb8-89cccca299f7" name="Changes" comment="hoat">
+      <change afterPath="$PROJECT_DIR$/css/labjs5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoBootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labjs5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labjs5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../T2110E_WEB-master/DemoJS3.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -86,6 +90,9 @@
       <workItem from="1639102723887" duration="13000" />
       <workItem from="1639507974547" duration="14666000" />
       <workItem from="1639538611046" duration="2608000" />
+      <workItem from="1639541307460" duration="275000" />
+      <workItem from="1639591658801" duration="162000" />
+      <workItem from="1639619838919" duration="10321000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1638922980207</created>
@@ -171,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639540974720</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="hoat">
+      <created>1639541317689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639541317689</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
