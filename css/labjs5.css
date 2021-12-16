@@ -8,7 +8,7 @@
     margin: 0 auto;
 }
 .title{
-    background: #aaaaaa;
+    background:lightblue;
     width: 100%;
     height: 192px;
 }
@@ -16,7 +16,7 @@
     font-size: 48px;
     font-weight: bold;
     text-align: center;
-    color: blue;
+    color:black;
     line-height: 192px;
 }
 .content{
