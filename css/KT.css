@@ -9,7 +9,7 @@ body{
 .container{
     width: 600px;
     height: 800px;
-    margin: auto auto;
+    margin: 150px auto;
     background-color: white;
 }
 .header{
