@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.block_current-user{
+  width: 400px;
+  height: 50px;
+  background-color: deepskyblue;
+  color: white;
+}

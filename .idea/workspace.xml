@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Teams_2-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HoatAngular" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -96,6 +96,10 @@
       <workItem from="1639796208549" duration="4124000" />
       <workItem from="1639801276666" duration="1195000" />
       <workItem from="1639873633245" duration="9000" />
+      <workItem from="1640024432892" duration="286000" />
+      <workItem from="1640053397068" duration="500000" />
+      <workItem from="1640779164167" duration="18000" />
+      <workItem from="1640779210697" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1638922980207</created>
@@ -230,7 +234,28 @@
       <option name="project" value="LOCAL" />
       <updated>1639800357386</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="hoat">
+      <created>1640024450906</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1640024450906</updated>
+    </task>
+    <task id="LOCAL-00021" summary="hoat">
+      <created>1640024584017</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1640024584017</updated>
+    </task>
+    <task id="LOCAL-00022" summary="hoat">
+      <created>1640024671532</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1640024671532</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
